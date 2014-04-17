@@ -19,7 +19,7 @@ using Windows.UI.ApplicationSettings;
 using Windows.UI.Popups;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234238
-
+//this is a test comment
 namespace RadioRivendell
 {
     /// <summary>
